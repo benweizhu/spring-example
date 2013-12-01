@@ -1,4 +1,4 @@
 spring-example
 ==============
 
-Tech Stack: Spring | Tiles | Bootstrap
+Tech Stack: Gradle | Spring | Tiles | Bootstrap
