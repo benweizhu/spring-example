@@ -4,7 +4,7 @@
         <div class="col-md-4"></div>
         <div class="col-md-4">
             <form role="form" name='f' action='/spring-example/j_spring_security_check' method='POST'>
-                <h1 class="form-signin-heading">SIBSHIP</h1>
+                <h1 class="form-signin-heading">Spring Example</h1>
 
                 <div class="form-group">
                     <label for="exampleInputEmail">用户名</label>
