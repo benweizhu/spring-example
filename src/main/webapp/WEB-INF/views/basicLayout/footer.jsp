@@ -1,5 +1,5 @@
-<script src="http://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
+<script src="resources/js/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="http://cdn.bootcss.com/twitter-bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="resources/js/bootstrap.min.js"></script>
 </body>
 </html>
